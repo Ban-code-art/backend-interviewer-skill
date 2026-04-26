@@ -1,0 +1,4 @@
+interface:
+  display_name: "后端面试官"
+  short_description: "资深后端项目模拟面试、多轮追问、评分与结构化反馈改进建议"
+  default_prompt: "Use $backend-interviewer to run a senior backend mock interview for my project and give targeted feedback."
